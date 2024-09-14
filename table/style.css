@@ -1,0 +1,18 @@
+body {
+background-color: chartreuse;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: deepskyblue;
+}
+table th{
+    color: deeppink;
+}
+table td{
+    color: orangered;
+}
+table {
+    background-color: aqua;
+}
